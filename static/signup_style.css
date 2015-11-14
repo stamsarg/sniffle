@@ -1,0 +1,61 @@
+body {
+     background-image: url('back3.jpg');
+     background-size: 100%;
+}
+#logo {
+    font-family: 'Bad Script', cursive;
+    color: #ff6300;
+    font-size: 100px;
+    font-weight: lighter;
+}
+#toBeEntered1, #toBeEntered2, #toBeEntered3, #toBeEntered4, #toBeEntered5 {
+    font-family: 'Amatic SC'  ,cursive;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    z-index: 1;
+    text-align: right;
+    color: #00ffe8;
+}
+#toBeEntered1 {
+    padding-left: 600px;
+}
+#toBeEntered2 {
+    padding-left: 596px;
+}
+#toBeEntered3 {
+    padding-left: 500px;
+}
+#toBeEntered4 {
+    padding-left: 568px;
+}
+#toBeEntered5 {
+    padding-left: 330px;
+}
+#name, #email, #likes, #password1, #password2 {
+    border-radius: 5px;
+    border: solid 2px #00dfcb;
+    width: 290px;
+    margin-left: 669px;
+    position: absolute;
+    z-index: 1;
+    font-size: 19px;
+    font-family: 'Coming Soon', cursive;
+    color: #09b467;
+    font-weight: bold;
+}
+#submit {
+    background-color: #00ffe8;
+    border: solid 2px #00dfcb;
+    border-radius: 5px;
+    height: 48px;
+    width: 163px;
+    font-size: 23px;
+    font-family: 'Bad Script', cursive;
+    color: #ff6300;
+    font-weight: bolder;
+}
+.lol {
+    font-family: 'Coming Soon', cursive;
+    color: #a30505;
+}
